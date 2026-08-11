@@ -36,15 +36,15 @@
   },
   "devDependencies": {
     "@eslint/js": "10.0.1",
-    "@types/node": "26.1.2",
-    "eslint": "10.8.0",
+    "@types/node": "26.2.0",
+    "eslint": "10.8.1",
     "eslint-config-prettier": "10.1.8",
-    "globals": "17.8.0",
-    "pnpm": "11.17.0",
+    "globals": "17.9.0",
+    "pnpm": "11.20.0",
     "prettier": "3.9.6",
-    "tsx": "4.23.1",
+    "tsx": "4.23.11",
     "typescript": "7.0.2",
-    "typescript-eslint": "8.65.0",
+    "typescript-eslint": "8.66.0",
     "vitest": "3.2.6"
   }
 }
