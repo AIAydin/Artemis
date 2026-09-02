@@ -35,7 +35,7 @@
     "@hocuspocus/provider": "catalog:",
     "@huggingface/transformers": "3.8.1",
     "@tanstack/react-query": "catalog:",
-    "@xmldom/xmldom": "^0.9.10",
+    "@xmldom/xmldom": "^0.9.12",
     "@xterm/addon-fit": "catalog:",
     "@xterm/xterm": "catalog:",
     "@xyflow/react": "catalog:",
